@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tamanho_titulos">25sp</dimen>
+    <dimen name="padding_top_titulos">45dp</dimen>
+    <dimen name="tamanho_texto">20sp</dimen>
+</resources>

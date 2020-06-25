@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ContatoActivity">
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="36dp"
+        android:layout_marginStart="36dp"
+        android:layout_marginTop="48dp"
+        android:contentDescription="@string/descricao_imagem_contato"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/detalhe_contato" />
+
+    <TextView
+        android:id="@+id/textView11"
+        android:layout_width="101dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="168dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="168dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="48dp"
+        android:paddingTop="@dimen/padding_top_titulos"
+        android:text="@string/descricao_head_contatos"
+        android:textColor="#000000"
+        android:textSize="@dimen/tamanho_titulos"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/imageView7"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="67dp"
+        android:layout_height="44dp"
+        android:layout_marginEnd="12dp"
+        android:layout_marginLeft="36dp"
+        android:layout_marginRight="12dp"
+        android:layout_marginStart="36dp"
+        android:layout_marginTop="14dp"
+        android:paddingTop="10dp"
+        android:text="Email"
+        android:textSize="@dimen/tamanho_texto"
+        app:layout_constraintEnd_toStartOf="@+id/textView13"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView7" />
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="46dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="46dp"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="31dp"
+        android:text="consultoria@atm.com.br"
+        android:textSize="@dimen/tamanho_texto"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/textView12"
+        app:layout_constraintTop_toBottomOf="@+id/imageView7" />
+
+    <TextView
+        android:id="@+id/textView14"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="36dp"
+        android:layout_marginStart="36dp"
+        android:layout_marginTop="24dp"
+        android:text="Telefone"
+        android:textSize="@dimen/tamanho_texto"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView12" />
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="106dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="106dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="24dp"
+        android:text="(11) 33333 - 3333"
+        android:textSize="@dimen/tamanho_texto"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@+id/textView14"
+        app:layout_constraintTop_toBottomOf="@+id/textView13" />
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="36dp"
+        android:layout_marginStart="36dp"
+        android:layout_marginTop="20dp"
+        android:text="Celular"
+        android:textSize="@dimen/tamanho_texto"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView14" />
+
+    <TextView
+        android:id="@+id/textView17"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="204dp"
+        android:layout_marginLeft="23dp"
+        android:layout_marginRight="204dp"
+        android:layout_marginStart="23dp"
+        android:layout_marginTop="20dp"
+        android:text="(11) 99999 - 9999"
+        android:textSize="@dimen/tamanho_texto"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@+id/textView16"
+        app:layout_constraintTop_toBottomOf="@+id/textView15" />
+
+</android.support.constraint.ConstraintLayout>

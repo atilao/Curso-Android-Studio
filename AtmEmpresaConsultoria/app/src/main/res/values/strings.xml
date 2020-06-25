@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">AtmEmpresaConsultoria</string>
+    <string name="descricao_logo">logo da empresa ATM</string>
+    <string name="descricao_botao_empresa">Botao a empresa com imagem de um boneco</string>
+    <string name="descricao_botao_servico">Botao serviços com imagem de caixa de ferramentas</string>
+    <string name="descricao_botao_cliente">Botaao cliente com imagem de duas pessoas</string>
+    <string name="descricao_botao_contato">Botao contatos com imagem de uma carta</string>
+    <string name="descricao_head_empresa">imagem de um boneco</string>
+    <string name="empresa_detalhes">Sobre a Empresa</string>
+    <string name="texto_lorem">Lorem ipsum dolor sit amet, consecteturLorem ipsum dolor sit amet,
+        consecteturLorem ipsum dolor sit amet, consecteturLorem ipsum dolor sit amet,
+        consecteturLorem ipsum dolor sit amet, consecteturLorem ipsum dolor sit amet, consectetur
+    Lorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consectetur
+    Lorem ipsum dolor sit amet, consectetur  Lorem ipsum dolor sit amet, consectetur
+    Lorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consectetur
+    Lorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consectetur
+    Lorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consectetur
+    Lorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consectetur
+    Lorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consectetur
+    Lorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consectetur
+    Lorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consectetur
+    Lorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consectetur
+    Lorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consectetur
+    Lorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consectetur
+    Lorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consectetur
+    Lorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consectetur
+    Lorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consectetur
+    Lorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consectetur
+    Lorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consectetur
+    r
+    Lorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consectetur
+    Lorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consectetur
+    Lorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consectetur
+    Lorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consectetur
+    Lorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consectetur
+    r
+    Lorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consectetur
+    Lorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consectetur
+    Lorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consectetur
+    Lorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consectetur
+    Lorem ipsum dolor sit amet, consectetur Lorem ipsum dolor sit amet, consectetur</string>
+    <string name="servicos_detalhes">Serviços</string>
+    <string name="descricao_head_servicos">imagem de duas ferramentas</string>
+    <string name="texto_consultoria">Consultoria</string>
+    <string name="texto_processos">Processos</string>
+    <string name="texto_acompanhamento_projetos">Acompanhamento e Projetos</string>
+    <string name="clientes_detalhes">Nossos Clientes</string>
+    <string name="descricao_head_clientes">imagem de dois bonecos</string>
+    <string name="descricao_empresa_sys">Empresa de desenvolvimento de sistemas</string>
+    <string name="descricao_empresa_rsm">Empresa de auditoria</string>
+    <string name="descricao_head_contatos">Contatos</string>
+    <string name="descricao_imagem_contato">Imagem de uma carta</string>
+</resources>

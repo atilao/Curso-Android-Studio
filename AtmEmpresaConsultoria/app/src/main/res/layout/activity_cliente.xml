@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    tools:context=".ClienteActivity">
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="85dp"
+        android:layout_height="90dp"
+        android:layout_marginLeft="36dp"
+        android:layout_marginStart="36dp"
+        android:layout_marginTop="48dp"
+        android:contentDescription="@string/descricao_head_clientes"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/detalhe_cliente" />
+
+    <TextView
+        android:id="@+id/textView7"
+        android:layout_width="178dp"
+        android:layout_height="90dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="48dp"
+        android:paddingTop="@dimen/padding_top_titulos"
+        android:text="@string/clientes_detalhes"
+        android:textColor="#000000"
+        android:textSize="@dimen/tamanho_titulos"
+        app:layout_constraintStart_toEndOf="@+id/imageView4"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="111dp"
+        android:layout_height="49dp"
+        android:layout_marginBottom="35dp"
+        android:layout_marginEnd="219dp"
+        android:layout_marginLeft="54dp"
+        android:layout_marginRight="219dp"
+        android:layout_marginStart="54dp"
+        android:layout_marginTop="51dp"
+        app:layout_constraintBottom_toTopOf="@+id/textView8"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView4"
+        app:srcCompat="@drawable/cliente1" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="332dp"
+        android:layout_height="55dp"
+        android:layout_marginEnd="272dp"
+        android:layout_marginLeft="54dp"
+        android:layout_marginRight="272dp"
+        android:layout_marginStart="54dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/descricao_empresa_sys"
+        android:textColor="#000000"
+        android:textSize="@dimen/tamanho_texto"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView5" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="332dp"
+        android:layout_height="55dp"
+        android:layout_marginEnd="272dp"
+        android:layout_marginLeft="54dp"
+        android:layout_marginRight="272dp"
+        android:layout_marginStart="54dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/descricao_empresa_sys"
+        android:textColor="#000000"
+        android:textSize="@dimen/tamanho_texto"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView5" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="111dp"
+        android:layout_height="55dp"
+        android:layout_marginEnd="219dp"
+        android:layout_marginLeft="54dp"
+        android:layout_marginRight="219dp"
+        android:layout_marginStart="54dp"
+        android:layout_marginTop="13dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView8"
+        app:srcCompat="@drawable/cliente2" />
+
+    <TextView
+        android:id="@+id/textView10"
+        android:layout_width="191dp"
+        android:layout_height="27dp"
+        android:layout_marginBottom="163dp"
+        android:layout_marginEnd="139dp"
+        android:layout_marginLeft="54dp"
+        android:layout_marginRight="139dp"
+        android:layout_marginStart="54dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/descricao_empresa_rsm"
+        android:textColor="#000000"
+        android:textSize="@dimen/tamanho_texto"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView6" />
+</android.support.constraint.ConstraintLayout>
