@@ -2,6 +2,6 @@
  Exercicios feitos em um curso de Android Studio na Udemy
 
 ## Interface Gráfica dos APPs
-**APP Adivinha o Número** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **APP ATM Empresa Consultoria**
+**APP Adivinha o Número** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **APP ATM Empresa Consultoria** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **APP Cara ou Coroa**
 
-<img src="https://github.com/atilao/Curso-Android-Studio/blob/master/Adivinha/Foto_App.PNG" width="203">&nbsp;&nbsp;&nbsp;<img src="https://github.com/atilao/Curso-Android-Studio/blob/master/AtmEmpresaConsultoria/Foto_App.PNG" width="200">
+<img src="https://github.com/atilao/Curso-Android-Studio/blob/master/Adivinha/Foto_App.PNG" width="203">&nbsp;&nbsp;&nbsp;<img src="https://github.com/atilao/Curso-Android-Studio/blob/master/AtmEmpresaConsultoria/Foto_App.PNG" width="200">&nbsp;&nbsp;&nbsp;<img src="https://github.com/atilao/Curso-Android-Studio/blob/master/CaraOuCoroa/Foto_App.PNG" width="204">
